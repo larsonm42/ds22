@@ -1,0 +1,89 @@
+Timestamp,period,gender,sibling,favorite_subject,social,movie_genre,music_genre,learning_style,orange,gold,blue,green,predominant_color,agreement
+5/4/2026 8:57:26,First,Female,Oldest,History,10,Comedy,Pop,Visual,14,9,19,7,Blue,Agree
+5/4/2026 8:57:45,First,Male,Oldest,Science,3,Romance,Indie,Examples,11,16,6,17,Green,Agree
+5/4/2026 8:58:13,First,Female,Youngest,History,3,Action,Pop,Auditory,9,13,11,17,Green,Disagree
+5/4/2026 8:58:31,First,Male,Middle Child,Math,3,Action,Rock,Visual,11,9,10,20,Green,Agree
+5/4/2026 8:58:36,First,Female,Oldest,History,7,Romance,Indie,Examples,8,16,18,8,Blue,Agree
+5/4/2026 8:58:49,First,Male,Oldest,Science,7,Comedy,Rock,Examples,16,11,5,18,Green,Agree
+5/4/2026 8:58:49,First,Male,Middle Child,History,6,Romance,Indie,Visual,18,14,12,6,Orange,Agree
+5/4/2026 8:58:59,First,Male,Only Child,Math,5,Action,Indie,Examples,5,14,18,13,Blue,Agree
+5/4/2026 8:59:06,First,Male,Only Child,History,7,Horror,Alternative,Visual,14,13,9,14,Orange,Agree
+5/4/2026 8:59:08,First,Female,Only Child,History,6,Horror,Rock,Visual,12,7,17,11,Blue,Agree
+5/4/2026 8:59:10,First,Male,Middle Child,Science,7,Action,Hip Hop,Visual,16,14,7,13,Orange,Disagree
+5/4/2026 8:59:10,First,Male,Only Child,History,5,Comedy,Country,Examples,8,14,14,14,Blue,Agree
+5/4/2026 8:59:20,First,Female,Middle Child,Math,4,Thriller,Alternative,Visual,11,10,10,19,Green,Agree
+5/4/2026 8:59:27,First,Male,Middle Child,Science,5,Action,Alternative,Auditory,16,11,14,9,Orange,Agree
+5/4/2026 8:59:35,First,Male,Oldest,Math,4,Comedy,Hip Hop,Examples,7,17,8,18,Green,Agree
+5/4/2026 8:59:46,First,Male,Only Child,English,10,Action,Hip Hop,Visual,14,10,13,13,Orange,Agree
+5/4/2026 8:59:51,First,Female,Oldest,English,8,Comedy,Indie,Examples,9,9,20,12,Blue,Agree
+5/4/2026 8:59:52,First,Female,Oldest,History,4,Romance,Alternative,Visual,6,16,17,11,Blue,Agree
+5/4/2026 9:00:15,First,Male,Middle Child,Other,7,Action,Pop,Visual,14,15,7,14,Gold,Agree
+5/4/2026 9:00:18,First,Male,Only Child,Science,3,Horror,Alternative,Examples,5,15,15,15,Green,Agree
+5/4/2026 9:00:33,First,Male,Youngest,Science,3,Action,Rock,Visual,11,14,9,15,Green,Agree
+5/4/2026 9:00:45,First,Female,Oldest,Science,7,Romance,Country,Visual,10,13,19,8,Blue,Agree
+5/4/2026 9:00:49,First,Male,Oldest,History,4,Comedy,Folk,Auditory,16,9,12,14,Orange,Agree
+5/4/2026 9:01:11,First,Male,Oldest,Science,7,Thriller,Hip Hop,Examples,7,12,18,13,Blue,Disagree
+5/4/2026 9:01:21,First,Male,Youngest,History,7,Action,Pop,Examples,18,10,8,11,Orange,Agree
+5/4/2026 9:02:08,First,Male,Youngest,History,3,Comedy,Hip Hop,Visual,18,8,15,9,Orange,Agree
+5/4/2026 9:02:18,First,Male,Middle Child,History,7,Action,Indie,Examples,11,14,11,14,Green,Agree
+5/4/2026 9:02:23,First,Female,Oldest,History,2,Comedy,Hip Hop,Examples,12,12,18,8,Blue,Disagree
+5/4/2026 9:02:46,First,Male,Only Child,Math,7,Comedy,Indie,Examples,13,15,6,16,Green,Agree
+5/4/2026 9:15:20,First,Male,Only Child,English,10,Action,Hip Hop,Visual,14,10,13,13,Orange,Agree
+5/4/2026 10:14:10,Second,Male,Middle Child,Math,10,Action,Pop,Visual,13,12,16,9,Blue,Agree
+5/4/2026 10:14:15,Second,Female,Oldest,Math,4,Romance,Pop,Visual,14,14,17,16,Blue,Agree
+5/4/2026 10:14:28,Second,Male,Oldest,Science,9,Action,Rock,Visual,16,15,12,6,Orange,Agree
+5/4/2026 10:14:36,Second,Male,Oldest,History,8,Comedy,Hip Hop,Examples,8,11,12,19,Green,Agree
+5/4/2026 10:14:40,Second,Female,Youngest,English,5,Romance,Rock,Tactile,13,8,20,9,Blue,Agree
+5/4/2026 10:14:53,Second,Male,Middle Child,History,7,Comedy,Hip Hop,Examples,19,10,11,10,Orange,Agree
+5/4/2026 10:15:10,Second,Female,Middle Child,History,6,Comedy,Rock,Visual,11,16,10,13,Gold,Agree
+5/4/2026 10:15:37,Second,Female,Oldest,English,1,Romance,Indie,Visual,11,7,12,20,Green,Agree
+5/4/2026 10:15:38,Second,Male,Oldest,Math,10,Action,Hip Hop,Visual,19,11,12,8,Orange,Agree
+5/4/2026 10:15:43,Second,Male,Oldest,Other,8,Action,Alternative,Examples,13,10,18,9,Blue,Agree
+5/4/2026 10:15:47,Second,Male,Youngest,Math,5,Action,Hip Hop,Examples,12,14,7,17,Green,Agree
+5/4/2026 10:16:20,Second,Male,Middle Child,History,5,Action,Hip Hop,Tactile,16,12,6,15,Orange,Disagree
+5/4/2026 10:16:28,Second,Female,Only Child,Science,3,Romance,Indie,Visual,9,11,20,10,Blue,Agree
+5/4/2026 10:16:37,Second,Male,Youngest,Science,9,Comedy,Hip Hop,Visual,14,10,8,18,Green,Agree
+5/4/2026 10:16:39,Second,Female,Oldest,English,6,Thriller,Alternative,Examples,13,5,19,14,Blue,Agree
+5/4/2026 10:16:46,Second,Female,Youngest,English,9,Romance,Pop,Examples,11,10,17,13,Blue,Agree
+5/4/2026 10:16:55,Second,Female,Youngest,History,9,Romance,Indie,Visual,20,9,10,11,Orange,Agree
+5/4/2026 10:17:07,Second,Male,Youngest,Science,8,Action,Indie,Auditory,19,11,13,7,Orange,Agree
+5/4/2026 10:17:38,Second,Male,Oldest,Science,2,Romance,Rock,Visual,11,10,11,18,Green,Agree
+5/4/2026 10:17:57,Second,Female,Oldest,History,5,Action,Alternative,Visual,14,14,15,7,Blue,Disagree
+5/4/2026 10:18:43,Second,Male,Oldest,English,9,Action,Pop,Visual,17,13,13,7,Orange,Agree
+5/4/2026 10:19:03,Second,Male,Only Child,Science,4,Comedy,Hip Hop,Tactile,17,8,9,16,Orange,Agree
+5/4/2026 10:19:06,Second,Male,Oldest,Science,8,Action,Rock,Visual,10,16,13,11,Gold,Agree
+5/4/2026 10:19:09,Second,Male,Oldest,English,5,Action,Pop,Tactile,13,11,13,13,Green,Disagree
+5/4/2026 10:20:03,Second,Male,Middle Child,English,6,Action,Alternative,Examples,10,14,14,13,Blue,Agree
+5/4/2026 10:20:36,Second,Male,Youngest,History,8,Comedy,Alternative,Tactile,13,10,12,15,Green,Agree
+5/4/2026 10:25:35,First,Female,Youngest,History,7,Comedy,Pop,Examples,18,30,10,42,Green,Agree
+5/4/2026 10:29:44,Second,Male,Oldest,Math,5,Action,Rock,Examples,10,10,14,16,Green,Agree
+5/4/2026 11:07:42,Third,Female,Middle Child,English,8,Thriller,Alternative,Auditory,10,13,18,9,Blue,Agree
+5/4/2026 11:07:57,Third,Female,Middle Child,Math,2,Action,Indie,Examples,17,11,6,16,Orange,Disagree
+5/4/2026 11:08:15,Third,Female,Middle Child,Math,8,Romance,Hip Hop,Visual,13,15,16,6,Blue,Agree
+5/4/2026 11:08:21,Third,Female,Middle Child,History,5,Horror,Alternative,Examples,11,11,11,17,Green,Agree
+5/4/2026 11:08:24,Third,Male,Only Child,Other,9,Action,Rock,Examples,20,9,14,7,Orange,Agree
+5/4/2026 11:08:34,Third,Female,Middle Child,Science,4,Comedy,Hip Hop,Visual,13,12,18,7,Blue,Disagree
+5/4/2026 11:09:32,Third,Female,Middle Child,Science,4,Action,Pop,Examples,11,14,14,11,Blue,Agree
+5/4/2026 11:09:47,Third,Male,Oldest,Science,4,Action,Rock,Examples,15,14,8,13,Orange,Agree
+5/4/2026 11:09:51,Third,Other,Oldest,Other,10,Romance,Classical,Tactile,12,13,15,10,Blue,Agree
+5/4/2026 11:09:59,Third,Male,Youngest,Science,8,Comedy,Hip Hop,Visual,14,9,11,16,Green,Agree
+5/4/2026 11:10:09,Third,Male,Oldest,History,2,Action,Indie,Examples,7,19,8,16,Gold,Agree
+5/4/2026 11:10:10,Third,Male,Youngest,Math,7,Action,Hip Hop,Examples,18,9,17,6,Orange,Agree
+5/4/2026 11:10:21,Third,Female,Oldest,Other,8,Comedy,Hip Hop,Tactile,18,10,16,6,Orange,Agree
+5/4/2026 11:10:26,Third,Female,Youngest,Math,2,Romance,Pop,Examples,10,17,13,10,Gold,Agree
+5/4/2026 11:10:32,Third,Male,Middle Child,Science,8,Action,Rock,Examples,19,5,15,11,Orange,Agree
+5/4/2026 11:10:52,Third,Female,Youngest,History,8,Romance,Indie,Visual,11,11,14,14,Blue,Agree
+5/4/2026 11:11:01,Third,Female,Only Child,Science,5,Romance,Pop,Examples,7,10,19,14,Blue,Agree
+5/4/2026 11:11:10,Third,Male,Youngest,History,9,Comedy,Indie,Visual,15,11,17,7,Blue,Agree
+5/4/2026 11:11:13,Third,Male,Youngest,History,5,Comedy,Indie,Visual,13,13,12,10,Orange,Disagree
+5/4/2026 11:11:46,Second,Female,Youngest,History,9,Romance,Pop,Visual,11,13,16,7,Blue,Disagree
+5/4/2026 11:12:02,Third,Female,Middle Child,History,8,Romance,Pop,Examples,17,14,13,6,Orange,Agree
+5/4/2026 11:12:45,Third,Male,Middle Child,Science,8,Action,Alternative,Tactile,19,9,10,11,Orange,Agree
+5/4/2026 11:13:13,Third,Female,Oldest,English,7,Horror,Hip Hop,Visual,12,13,9,16,Green,Agree
+5/4/2026 11:13:19,Third,Male,Only Child,English,5,Action,Hip Hop,Visual,12,11,16,15,Blue,Agree
+5/4/2026 18:17:52,Second,Female,Youngest,History,7,Action,Pop,Visual,20,51,12,17,Gold,Agree
+5/5/2026 9:40:30,Second,Female,Only Child,Science,4,Action,Rock,Examples,8,15,17,10,Blue,Agree
+5/5/2026 9:55:27,Second,Female,Youngest,English,6,Comedy,Pop,Visual,12,14,15,13,Blue,Disagree
+5/6/2026 11:58:07,Third,Female,Oldest,English,7,Thriller,Indie,Examples,9,7,19,14,Blue,Agree
+5/6/2026 12:09:57,Third,Female,Youngest,Science,6,Romance,Pop,Examples,11,12,17,9,Blue,Disagree
+5/6/2026 12:13:49,Third,Female,Middle Child,Other,5,Romance,Indie,Examples,11,13,16,14,Blue,Agree
